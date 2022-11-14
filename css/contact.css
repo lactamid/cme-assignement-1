@@ -175,7 +175,7 @@ main {
     color: #fff;
     font-family: sans-serif;
     height: 100%;
-    margin: 8px;
+    margin: 8px 0 8px 0;
     padding: 32px;
     z-index: -10;
 }
